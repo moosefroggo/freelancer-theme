@@ -2,7 +2,7 @@
 title: Mustafa Ali Akbar
 email: m.alizz@hotmail.com
 url: https://moosefroggo.github.io
-description: "I am and android game developer, I have worked on a variety of games, this is my portfolio"
+description: "I am an android game developer, I have worked on a variety of games, this is my portfolio"
 skills: "Android Game Developer - Programmer"
 meta_author: Ali Mustafa
 
@@ -56,7 +56,7 @@ address:
   - line: 54000
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
