@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2016-09-01
-img: dragon.png
+img: cabin.png
 alt: image-alt
 project-date: September 2016
 client: Unity3D
