@@ -8,8 +8,8 @@ project-date: September 2016
 client: Unity3D
 category: Game Development
 description: A dragon simulation game where you attack civilians, fight dragons, and archers. Contains two game modes:
-Survival:- Survive for as long as you can by fighting waves of archers and dragons. The final score gets updated to google leader board.
-Challenge:- Includes 10 levels where you have to complete tasks in each level to unlock the next one. I have implemented all logic in this game from scratch except two of the Assets from Asset Store:
+Survival :- Survive for as long as you can by fighting waves of archers and dragons. The final score gets updated to google leader board.
+Challenge :- Includes 10 levels where you have to complete tasks in each level to unlock the next one. I have implemented all logic in this game from scratch except two of the Assets from Asset Store:
 EasyTouch Joystick
 PyroParticle Fires
 I have also integrated ads from IronSource, Heyzap, Chartboost, Unity Ads, StartApp, AdMob, Fyber, AppLovin in this game.
