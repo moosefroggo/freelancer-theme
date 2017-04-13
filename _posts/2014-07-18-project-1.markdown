@@ -4,9 +4,9 @@ modal-id: 1
 date: 2014-07-18
 img: dragon.png
 alt: image-alt
-project-date: April 2014
+project-date: September 2016
 client: Unity3D
-category: Game Development Development
+category: Game Development
 description: A dragon simulation game where you attack civilians, fight dragons, and archers.
 
 ---
