@@ -1,12 +1,18 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2016-09-01
+img: dragon.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: September 2016
+client: Unity3D
+category: Game Development
+description: A dragon simulation game where you attack civilians, fight dragons, and archers. Contains two game modes:
+Survival: Survive for as long as you can by fighting waves of archers and dragons. The final score gets updated to google leader board.
+Challenge: Includes 10 levels where you have to complete tasks in each level to unlock the next one. I have implemented all logic in this game from scratch except two of the Assets from Asset Store:
+EasyTouch Joystick
+PyroParticle Fires
+I have also integrated ads from IronSource, Heyzap, Chartboost, Unity Ads, StartApp, AdMob, Fyber, AppLovin in this game.
+<a href= "https://play.google.com/store/apps/details?id=com.rs.flying_dragon_mania_simulation&hl=en>Link for game</a>
 
 ---
